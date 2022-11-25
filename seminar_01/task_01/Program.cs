@@ -42,42 +42,6 @@
 // }
 
 
-
-// // Написать программу: программа получает число с консоли, возводит его в квадрат и выводит на экран
-
-// // Console.WriteLine -- вывод сообщения в консоль
-// Console.WriteLine("Привет! Введите число, чтобы мы возвели его в квадрат");
-// // Console.ReadLine -- получаем текст с консоли
-// string str = Console.ReadLine();
-
-// // int.Parse -- переводит строку (string) в число (int)
-// int number = int.Parse(str);
-
-// // * -- умножение
-// int square = number * number;
-
-// Console.WriteLine("Квадрат вашего числа " + square);
-
-
-// Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутке от -N до N.
-// 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
-// 2 -> " -2, -1, 0, 1, 2"
-
-// Console.WriteLine("Введите число");
-// string text = Console.ReadLine();
-// Console.WriteLine(); // пустая строка для разделения
-// int number = int.Parse(text); // например, 2
-// int negativeNumber = number * -1; // 2 * -1 == -2
-// while (negativeNumber <= number) // -2 <= 2 == true
-// {
-//     Console.WriteLine(negativeNumber); // выводим -2
-//     // -2 + 1 == -1
-//     negativeNumber++; // увеличение negativeNumber на единицу
-//     // равнозначно с:
-//     // negativeNumber = negativeNumber + 1;
-//     // negativeNumber += 1;
-// }
-
 // int num = -5;
 // int absNum = Math.Abs(num); // Модуль числа 
 // Console.WriteLine(absNum);
@@ -90,17 +54,32 @@
 // // a = 9; b = -3 -> да
 // // a = -3 b = 9 -> нет
 
-Console.WriteLine("Введите первое число:");
-string str = Console.ReadLine();
-int a = int.Parse(str);
-Console.WriteLine("Введите второе число:");
-string str2 = Console.ReadLine();
-int b = int.Parse(str2);
-if (a / b == b)
-{
-    Console.WriteLine("Первое число является квадратом второго");
-}
-else
-{
-    Console.WriteLine("Первое число НЕ является квадратом второго");
-}
+// Console.WriteLine("Введите первое число:");
+// string str = Console.ReadLine();
+// int a = int.Parse(str);
+// Console.WriteLine("Введите второе число:");
+// string str2 = Console.ReadLine();
+// int b = int.Parse(str2);
+// if (a / b == b)
+// {
+//     Console.WriteLine("Первое число является квадратом второго");
+// }
+// else
+// {
+//     Console.WriteLine("Первое число НЕ является квадратом второго");
+// }
+
+
+// // Задача 2. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутке от -N до N.
+// // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
+// // 2 -> " -2, -1, 0, 1, 2"
+
+// Console.WriteLine("Введите число:");
+// string str = Console.ReadLine();
+// int number = int.Parse(str);
+// int negativNumber = number * -1;
+// while (negativNumber <= number)
+// {
+//     Console.Write(negativNumber + " ");
+//     negativNumber++;
+// }
