@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\toropova.aa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\GB\\Seminars_tasks\\seminar_02\\10\\10.csproj",
+      "projectUniqueName": "C:\\Users\\toropova.aa\\Desktop\\GB\\Seminars\\seminar_02\\10\\10.csproj",
       "projectName": "10",
-      "projectPath": "C:\\Users\\User\\Desktop\\GB\\Seminars_tasks\\seminar_02\\10\\10.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\GB\\Seminars_tasks\\seminar_02\\10\\obj\\",
+      "projectPath": "C:\\Users\\toropova.aa\\Desktop\\GB\\Seminars\\seminar_02\\10\\10.csproj",
+      "packagesPath": "C:\\Users\\toropova.aa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\toropova.aa\\Desktop\\GB\\Seminars\\seminar_02\\10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\toropova.aa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

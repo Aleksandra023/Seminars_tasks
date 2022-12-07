@@ -10,4 +10,4 @@ int number = int.Parse(str);
 
 int first = number / 10;
 int second = first % 10;
-Console.WriteLine("Вторая цифра: " + second);
+Console.WriteLine($"Вторая цифра: {second}");
