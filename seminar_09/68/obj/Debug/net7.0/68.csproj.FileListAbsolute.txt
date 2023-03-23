@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\bin\Debug\net7.0\68.exe
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\bin\Debug\net7.0\68.deps.json
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\bin\Debug\net7.0\68.runtimeconfig.json
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\bin\Debug\net7.0\68.dll
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\bin\Debug\net7.0\68.pdb
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.dll
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\refint\68.dll
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.pdb
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\68.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\Seminars_git\Seminars_tasks\seminar_09\68\obj\Debug\net7.0\ref\68.dll
